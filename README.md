@@ -11,4 +11,4 @@ Fixed somatic SNPs based analysis.
 The scripts for calling intra-module somatic SNPs from raw Novaseq reads.
 
 04_1000xSNPanalysis:
-intra-module somatic SNPs based analysis.
+Intra-module somatic SNPs based analysis.
