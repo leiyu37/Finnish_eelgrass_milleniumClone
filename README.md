@@ -12,3 +12,6 @@ The scripts for calling intra-module somatic SNPs from raw Novaseq reads.
 
 04_1000xSNPanalysis:
 Intra-module somatic SNPs based analysis.
+
+Data:
+Some intermediate output files.
